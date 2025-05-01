@@ -4,6 +4,5 @@
 1. Go to settings > system> about> Rename the PC> This PC
 2. change the name 
 3. Restart the PC
-4. Check if the name has changed after restarting from the command prompt 
-
-#whoami
+4. Check if the name has changed after restarting from the command prompt:
+5.type #whoami
