@@ -5,7 +5,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Changing PC Name](https://github.com/idris-adbl/Changing-PC-Name)
 
-[Installing Active Directory Tools And Adding New Forest](https://www.notion.so/Installing-Active-Directory-Tools-And-Adding-New-Forest-1de89241bc9d80c187e2cfe9d444f18d?pvs=21)
+[Installing Active Directory Tools And Adding New Forest](https://github.com/idris-adbl/Installing-Active-Directory-Tools-And-Adding-New-Forest/tree/main)
 
 [Creating User Accounts](https://www.notion.so/Creating-User-Accounts-1df89241bc9d802cb95ae3c9b685d788?pvs=21)
 
