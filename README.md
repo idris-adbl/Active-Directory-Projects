@@ -3,10 +3,14 @@ Active Directory Projects
 
 In this Active Directory project, I would like to build some important information that is very useful in an IT environment.  Active Directory is widely used in an IT environment. I want to develop my projects with creating Group Policy, Organizational Unit, creating user accounts with specific attributes, creating security and distribution groups, managing group memberships, creating and link policies to organizational units, setting up file sharing within AD environment, creating and configuring a service account, setting up account lockout to enhance security. 
 
-Requeriments:
-  **Windows Server 2022
-  **Windows 10 Pro or Enterprise
-  **VMware workstaion (Virtual Machine)
+Required Tools
+
+
+   - **Windows Server 2022**
+  
+  -  **Windows 10 Pro or Enterprise**
+  
+  -  **VMware workstaion (Virtual Machine)**
 
 [Changing PC Name](https://github.com/idris-adbl/Changing-PC-Name)
 
