@@ -19,7 +19,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Configuring File Sharing and Permissions](https://github.com/idris-adbl/Configuring-File-Sharing-and-Permissions/tree/main)
 
-[Map Network Drives via Group Policy](https://www.notion.so/Map-Network-Drives-via-Group-Policy-1e189241bc9d80809d73e6abcda8ea55?pvs=21)
+[Map Network Drives via Group Policy](https://github.com/idris-adbl/Map-Network-Drives-via-Group-Policy/tree/main)
 
 [Creating Service Accounts ](https://www.notion.so/Creating-Service-Accounts-1e189241bc9d80b6b4d1e99bd993c9dd?pvs=21)
 
