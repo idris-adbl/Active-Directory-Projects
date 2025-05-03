@@ -15,7 +15,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Join Windows Client to the Domain](https://github.com/idris-adbl/Join-Windows-Client-to-the-Domain/tree/main)
 
-[Creating and Linking Group Policy Objects (GPOs)](https://www.notion.so/Creating-and-Linking-Group-Policy-Objects-GPOs-1e189241bc9d80108570f0791c939d4c?pvs=21)
+[Creating and Linking Group Policy Objects (GPOs)](https://github.com/idris-adbl/Creating-and-Linking-Group-Policy-Objects-GPOs-/tree/main)
 
 [Configuring File Sharing and Permissions](https://www.notion.so/Configuring-File-Sharing-and-Permissions-1e189241bc9d800387b6de7fad9d9bd8?pvs=21)
 
