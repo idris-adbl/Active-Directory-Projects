@@ -11,7 +11,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Creating Groups ](https://github.com/idris-adbl/Creating-User-Accounts/blob/main/README.md)
 
-[Configure Network settings for the Server](https://www.notion.so/Configure-Network-settings-for-the-Server-1e089241bc9d8050bda6e10a3b0cc7a3?pvs=21)
+[Configure Network settings for the Server](https://github.com/idris-adbl/Configure-Network-settings-for-the-Server/tree/main)
 
 [Join Windows Client to the Domain](https://www.notion.so/Join-Windows-Client-to-the-Domain-1e089241bc9d809f92f4e8fa2097ea4e?pvs=21)
 
