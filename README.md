@@ -21,7 +21,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Map Network Drives via Group Policy](https://github.com/idris-adbl/Map-Network-Drives-via-Group-Policy/tree/main)
 
-[Creating Service Accounts ](https://www.notion.so/Creating-Service-Accounts-1e189241bc9d80b6b4d1e99bd993c9dd?pvs=21)
+[Creating Service Accounts ](https://github.com/idris-adbl/Creating-Service-Accounts-/tree/main)
 
 [Configuring Account Lockout Policy](https://www.notion.so/Configuring-Account-Lockout-Policy-1e189241bc9d800491f3edddb60e0bb4?pvs=21)
 
