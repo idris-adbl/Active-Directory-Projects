@@ -7,7 +7,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Installing Active Directory Tools And Adding New Forest](https://github.com/idris-adbl/Installing-Active-Directory-Tools-And-Adding-New-Forest/tree/main)
 
-[Creating User Accounts](https://www.notion.so/Creating-User-Accounts-1df89241bc9d802cb95ae3c9b685d788?pvs=21)
+[Creating User Accounts](https://github.com/idris-adbl/Creating-User-Accounts)
 
 [Creating Groups ](https://www.notion.so/Creating-Groups-1df89241bc9d80679b82c59b7d37741c?pvs=21)
 
