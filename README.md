@@ -23,6 +23,6 @@ In this Active Directory project, I would like to build some important informati
 
 [Creating Service Accounts ](https://github.com/idris-adbl/Creating-Service-Accounts-/tree/main)
 
-[Configuring Account Lockout Policy](https://www.notion.so/Configuring-Account-Lockout-Policy-1e189241bc9d800491f3edddb60e0bb4?pvs=21)
+[Configuring Account Lockout Policy](https://github.com/idris-adbl/Configuring-Account-Lockout-Policy)
 
 
