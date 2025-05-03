@@ -17,7 +17,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Creating and Linking Group Policy Objects (GPOs)](https://github.com/idris-adbl/Creating-and-Linking-Group-Policy-Objects-GPOs-/tree/main)
 
-[Configuring File Sharing and Permissions](https://www.notion.so/Configuring-File-Sharing-and-Permissions-1e189241bc9d800387b6de7fad9d9bd8?pvs=21)
+[Configuring File Sharing and Permissions](https://github.com/idris-adbl/Configuring-File-Sharing-and-Permissions/tree/main)
 
 [Map Network Drives via Group Policy](https://www.notion.so/Map-Network-Drives-via-Group-Policy-1e189241bc9d80809d73e6abcda8ea55?pvs=21)
 
