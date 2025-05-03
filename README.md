@@ -9,7 +9,7 @@ In this Active Directory project, I would like to build some important informati
 
 [Creating User Accounts](https://github.com/idris-adbl/Creating-User-Accounts)
 
-[Creating Groups ](https://www.notion.so/Creating-Groups-1df89241bc9d80679b82c59b7d37741c?pvs=21)
+[Creating Groups ](https://github.com/idris-adbl/Creating-User-Accounts/blob/main/README.md)
 
 [Configure Network settings for the Server](https://www.notion.so/Configure-Network-settings-for-the-Server-1e089241bc9d8050bda6e10a3b0cc7a3?pvs=21)
 
